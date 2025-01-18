@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Line Chart</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sarabun">
+    <link rel="stylesheet" href="../styles/example-pages.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="chart-container">
+        <h1>Line <pink>Chart</pink> <black>Example</black></h1>
+        <canvas id="line-chart"></canvas>
+    </div>
+    <script>
+        // Get the canvas element with the ID 'line-chart' and its 2D drawing context
+        const ctx = document.getElementById('line-chart').getContext('2d');
+    
+        // Create a new line chart using Chart.js
+        new Chart(ctx, {
+            // Specify the chart type ('line' for a line chart)
+            type: 'line',
+            // Provide the data for the chart
+            data: {
+                // Labels for the x-axis (Months in this case)
+                labels: ['January', 'February', 'March', 'April', 'May'],
+                // Define multiple datasets for the chart
+                datasets: [
+                    {
+                        // Label for the first dataset
+                        label: 'ASUS',
+                        // Data values corresponding to each label
+                        data: [20000, 3000, 7000, 8000, 3000],
+                        // Background color for the area under the line (with opacity)
+                        backgroundColor: '#0066cc50',
+                        // Color for the line
+                        borderColor: '#0066cc',
+                        // Width of the line
+                        borderWidth: 2,
+                        // Curvature of the line (0 = straight lines)
+                        tension: 0.1,
+                        // Whether the dataset is initially hidden
+                        hidden: false
+                    },
+                    {
+                        // Label for the second dataset
+                        label: 'MSI',
+                        // Data values for this dataset
+                        data: [14000, 10000, 5000, 13700, 9000],
+                        // Background color for the area under the line (with opacity)
+                        backgroundColor: '#d80c1850',
+                        // Color for the line
+                        borderColor: '#d80c18',
+                        // Width of the line
+                        borderWidth: 2,
+                        // Curvature of the line
+                        tension: 0.1,
+                        // Dataset visibility
+                        hidden: false
+                    },
+                    {
+                        // Label for the third dataset
+                        label: 'Gigabyte',
+                        // Data values for this dataset
+                        data: [10000, 14000, 16000, 6000, 17000],
+                        // Background color for the area under the line (with opacity)
+                        backgroundColor: '#33993350',
+                        // Color for the line
+                        borderColor: '#339933',
+                        // Width of the line
+                        borderWidth: 2,
+                        // Curvature of the line
+                        tension: 0.1,
+                        // Dataset visibility
+                        hidden: false
+                    },
+                    {
+                        // Label for the fourth dataset
+                        label: 'EVGA',
+                        // Data values for this dataset
+                        data: [4500, 5600, 1800, 19000, 6000],
+                        // Background color for the area under the line (with opacity)
+                        backgroundColor: '#6600cc50',
+                        // Color for the line
+                        borderColor: '#6600cc',
+                        // Width of the line
+                        borderWidth: 2,
+                        // Curvature of the line
+                        tension: 0.1,
+                        // Dataset visibility
+                        hidden: false
+                    },
+                    {
+                        // Label for the fifth dataset
+                        label: 'Asrock',
+                        // Data values for this dataset
+                        data: [1000, 17000, 12000, 2600, 12500],
+                        // Background color for the area under the line (with opacity)
+                        backgroundColor: '#ff5cb150',
+                        // Color for the line
+                        borderColor: '#ff5cb1',
+                        // Width of the line
+                        borderWidth: 2,
+                        // Curvature of the line
+                        tension: 0.1,
+                        // Dataset visibility
+                        hidden: false
+                    }
+                ]
+            },
+            // Configure chart options
+            options: {
+                // Make the chart responsive to the screen size
+                responsive: true,
+                // Disable maintaining the default aspect ratio
+                maintainAspectRatio: false,
+                // Configure the axes
+                scales: {
+                    y: {
+                        // Start the y-axis at zero
+                        beginAtZero: true,
+                        // Configure the y-axis title
+                        title: {
+                            display: true, // Show the title
+                            text: 'Sales ($)', // Title text
+                            padding: 16, // Padding around the title
+                            color: '#f45', // Title color
+                            font: {
+                                family: 'Sarabun', // Font family for the title
+                                size: 16, // Font size for the title
+                                weight: 'bold' // Font weight for the title
+                            }
+                        },
+                        // Customize the y-axis grid
+                        grid: {
+                            tickColor: '#f45' // Grid tick color
+                        }
+                    },
+                    x: {
+                        // Start the x-axis at zero
+                        beginAtZero: true,
+                        // Configure the x-axis title
+                        title: {
+                            display: true, // Show the title
+                            text: 'Month', // Title text
+                            padding: 16, // Padding around the title
+                            color: '#f45', // Title color
+                            font: {
+                                family: 'Sarabun', // Font family for the title
+                                size: 16, // Font size for the title
+                                weight: 'bold' // Font weight for the title
+                            }
+                        },
+                        // Customize the x-axis grid
+                        grid: {
+                            tickColor: '#f45' // Grid tick color
+                        }
+                    }
+                },
+                // Configure plugins
+                plugins: {
+                    // Tooltip settings
+                    tooltip: {
+                        // Enable tooltips for multiple datasets at the same x-axis value
+                        mode: 'index',
+                        // Show tooltips even when not directly over a data point
+                        intersect: false
+                    }
+                }
+            }
+        });
+    
+        // Set global font family for all charts
+        Chart.defaults.font.family = 'Sarabun';
+        // Set global font size for all charts
+        Chart.defaults.font.size = 14;
+    </script>
+</body>
+
+</html>
