@@ -1,2 +1,2 @@
-# Chart.js-Tutorial-With-Examples
+# Chart.js Tutorial With Examples
 Coming soon...
