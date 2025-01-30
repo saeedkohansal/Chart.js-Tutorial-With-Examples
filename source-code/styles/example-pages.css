@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Sarabun";
+    text-align: center;
+    color: #008;
+}
+
+pink {
+    color: #ff6384;
+}
+
+black {
+    color: #000;
+}
+
+.chart-container {
+    position: relative;
+    height: 60vh;
+    width: 60vw;
+    margin: 40px auto 100px;
+}

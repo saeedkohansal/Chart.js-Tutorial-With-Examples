@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Radar Chart</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sarabun">
+    <link rel="stylesheet" href="../styles/example-pages.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="chart-container">
+        <h1>Radar <pink>Chart</pink> <black>Example</black></h1>
+        <canvas id="radar-chart"></canvas>
+    </div>
+    <script>
+        // Get the canvas element with the ID 'radar-chart' and its 2D context
+        const ctx = document.getElementById('radar-chart').getContext('2d');
+
+        // Create a new radar chart
+        new Chart(ctx, {
+            type: 'radar', // Specify the chart type as 'radar'
+            data: {
+                // Labels for the axes of the radar chart
+                labels: ['Speed', 'Strength', 'Endurance', 'Agility', 'Flexibility', 'Balance'],
+                datasets: [
+                    {
+                        // Data for Athlete A
+                        label: 'Athlete A',
+                        data: [80, 90, 70, 85, 60, 75], // Values for each axis
+                        backgroundColor: '#ff000030', // Semi-transparent red fill
+                        borderColor: '#f00', // Red border
+                        borderWidth: 2, // Border width
+                        pointBackgroundColor: '#f00', // Red points on the chart
+                        hidden: false // Ensure this dataset is visible
+                    },
+                    {
+                        // Data for Athlete B
+                        label: 'Athlete B',
+                        data: [65, 75, 80, 70, 85, 95], // Values for each axis
+                        backgroundColor: '#0000ff30', // Semi-transparent blue fill
+                        borderColor: '#00f', // Blue border
+                        borderWidth: 2, // Border width
+                        pointBackgroundColor: '#00f', // Blue points on the chart
+                        hidden: false // Ensure this dataset is visible
+                    },
+                    {
+                        // Data for Athlete C
+                        label: 'Athlete C',
+                        data: [75, 100, 37, 20, 60, 43], // Values for each axis
+                        backgroundColor: '#4caf5030', // Semi-transparent green fill
+                        borderColor: '#4caf50', // Green border
+                        borderWidth: 2, // Border width
+                        pointBackgroundColor: '#4caf50', // Green points on the chart
+                        hidden: false // Ensure this dataset is visible
+                    }
+                ]
+            },
+            options: {
+                responsive: true, // Ensure the chart adjusts to screen size
+                maintainAspectRatio: false, // Disable maintaining default aspect ratio
+                scales: {
+                    r: {
+                        pointLabels: {
+                            color: '#f45a00', // Color for the labels on the axes
+                            font: {
+                                family: 'Sarabun', // Font family for axis labels
+                                size: 14, // Font size for axis labels
+                                weight: 'bold' // Font weight for axis labels
+                            }
+                        },
+                        angleLines: {
+                            display: true // Show lines from the center to the chart points
+                        },
+                        suggestedMin: 0, // Minimum value for the chart scale
+                        suggestedMax: 100, // Maximum value for the chart scale
+                        ticks: {
+                            color: '#000', // Color of the tick marks
+                            backdropColor: '#ffffffcc', // Background color for the tick labels
+                            font: {
+                                family: 'Sarabun', // Font family for tick labels
+                                size: 16 // Font size for tick labels
+                            }
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        position: 'top', // Position of the legend
+                        labels: {
+                            font: {
+                                family: 'Sarabun', // Font family for legend labels
+                                size: 14 // Font size for legend labels
+                            }
+                        }
+                    },
+                    tooltip: {
+                        callbacks: {
+                            // Customize the tooltip to show the dataset label and value
+                            label: function (context) {
+                                return ` ${context.dataset.label}: ${context.raw}`;
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>

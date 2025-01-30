@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Doughnut and Pie Charts</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sarabun">
+    <link rel="stylesheet" href="../styles/example-pages.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="chart-container">
+        <h1>Doughnut <pink>Chart</pink> <black>Example</black></h1>
+        <canvas id="doughnut-chart"></canvas>
+    </div>
+    <hr>
+    <div class="chart-container">
+        <h1>Pie <pink>Chart</pink> <black>Example</black></h1>
+        <canvas id="pie-chart"></canvas>
+    </div>
+    <script>
+        // Doughnut chart configuration
+        // Get the canvas element with the ID 'doughnut-chart' and its 2D context
+        const doughnutCtx = document.getElementById('doughnut-chart').getContext('2d');
+
+        // Create a new doughnut chart
+        new Chart(doughnutCtx, {
+            type: 'doughnut', // Specify the chart type as 'doughnut'
+            data: {
+                // Labels for each segment of the doughnut chart
+                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple'],
+                // Dataset configuration
+                datasets: [{
+                    // Data values corresponding to each label
+                    data: [30, 20, 25, 15, 10],
+                    // Background colors for each segment
+                    backgroundColor: ['#f54', '#36a2eb', '#ffce56', '#4caf50', '#9966ff'],
+                    // Border colors for each segment
+                    borderColor: ['#fff', '#fff', '#fff', '#fff', '#fff'],
+                    // Width of the borders around each segment
+                    borderWidth: 2,
+                    // Hover offset to enlarge a segment when hovered
+                    hoverOffset: 20
+                }]
+            },
+            options: {
+                responsive: true, // Ensure the chart adjusts to screen size
+                maintainAspectRatio: false // Do not maintain the default aspect ratio
+            }
+        });
+
+        // Pie chart configuration
+        // Get the canvas element with the ID 'pie-chart' and its 2D context
+        const pieCtx = document.getElementById('pie-chart').getContext('2d');
+    
+        // Create a new pie chart
+        new Chart(pieCtx, {
+            type: 'pie', // Specify the chart type as 'pie'
+            data: {
+                // Labels for each segment of the pie chart
+                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple'],
+                // Dataset configuration
+                datasets: [{
+                    // Data values corresponding to each label
+                    data: [10, 35, 20, 15, 8],
+                    // Background colors for each segment
+                    backgroundColor: ['#f54', '#36a2eb', '#ffce56', '#4caf50', '#9966ff'],
+                    // Border colors for each segment
+                    borderColor: ['#fff', '#fff', '#fff', '#fff', '#fff'],
+                    // Width of the borders around each segment
+                    borderWidth: 2,
+                    // Hover offset to enlarge a segment when hovered
+                    hoverOffset: 20
+                }]
+            },
+            options: {
+                responsive: true, // Ensure the chart adjusts to screen size
+                maintainAspectRatio: false // Do not maintain the default aspect ratio
+            }
+        });
+
+        // Set global default font family for all charts
+        Chart.defaults.font.family = 'Sarabun';
+        // Set global default font size for all charts
+        Chart.defaults.font.size = 14;
+    </script>
+</body>
+
+</html>
