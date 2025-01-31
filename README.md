@@ -12,7 +12,7 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 <hr>
 
-# ⭐ Charts Demos:
+# | TABLE OF CONTENTS |
 
 **[📊 Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** - ***[Source Code](source-code/charts/bar-chart.html)***
 
@@ -29,6 +29,10 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 **[🔶 Radar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/radar-chart.html)** - ***[Source Code](source-code/charts/radar-chart.html)***
 
 **[⭕ Scatter Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/scatter-chart.html)** - ***[Source Code](source-code/charts/scatter-chart.html)***
+
+<hr>
+
+<div align="center"><h1>👇 Charts Demos 👇</h1></div>
 
 ## 📊 Bar Chart
 
