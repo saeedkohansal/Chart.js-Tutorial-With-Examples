@@ -13,39 +13,39 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 <hr>
 
-# 📊 Bar Chart
+# 📊 Bar Chart - Demo
 
 ![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart - Example")
 
-# 📊 Multiple Datasets Bar Chart
+# 📊 Multiple Datasets Bar Chart - Demo
 
 ![Multiple Datasets Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-multiple-datasets.png "Multiple Datasets Bar Chart - Example")
 
-# 📊 Horizontal Bar Chart
+# 📊 Horizontal Bar Chart - Demo
 
 ![Horizontal Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-horizontal.png "Horizontal Bar Chart - Example")
 
-# 📈 Line Chart
+# 📈 Line Chart - Demo
 
 ![Line Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/line-chart.png "Line Chart - Example")
 
-# 📉 Multi Axis Line Chart
+# 📉 Multi Axis Line Chart - Demo
 
 ![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart - Example")
 
-# 🍩 Doughnut Chart
+# 🍩 Doughnut Chart - Demo
 
 ![Doughnut Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/doughnut-chart.png "Doughnut Chart - Example")
 
-# 🍩 Pie Chart
+# 🍩 Pie Chart - Demo
 
 ![Pie Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/pie-chart.png "Pie Chart - Example")
 
-# 🔶 Radar Chart
+# 🔶 Radar Chart - Demo
 
 ![Radar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/radar-chart.png "Radar Chart - Example")
 
-# ⭕ Scatter Chart
+# ⭕ Scatter Chart - Demo
 
 ![Scatter Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/scatter-chart.png "Scatter Chart - Example")
 
