@@ -3,7 +3,7 @@
 
 _Master Data Visualization with Chart.js! | Create 9 Stunning Charts Using JavaScript!_
 
-![YouTube Thumbnail](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-tutorial.png "Safe Password Generator Application")
+![YouTube Thumbnail](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-tutorial.png "Chart.js Tutorial With Examples - YouTube Thumbnail")
 
 In this Chart.js tutorial, I’ll show you how to visualize data on the web using JavaScript. You’ll learn how to create 9 different chart types, including bar charts, line charts, pie charts, and more! Chart JS is a powerful, lightweight, and open-source JavaScript charting library that lets you build interactive and responsive charts using HTML5 Canvas. Whether you're a beginner or an experienced developer, this step-by-step tutorial will help you master data visualization for your web applications and dashboards. Want to Master Chart JS? Watch This Chart.js Tutorial.
 
