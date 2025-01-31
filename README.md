@@ -14,15 +14,22 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 <hr>
 
 # ⭐ Charts Demos:
-📊 Bar Chart
-📊 Multiple Datasets Bar Chart
-📊 Horizontal Bar Chart
-📈 Line Chart
-📉 Multi Axis Line Chart
-🍩 Doughnut Chart
-🍩 Pie Chart
-🔶 Radar Chart
-⭕ Scatter Chart
+
+**[📊 Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** | ***[Source Code](source-code/charts/bar-chart.html)***
+
+**[📊 Multiple Datasets Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-multiple-datasets.html)**
+
+**[📊 Horizontal Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-horizontal.html)**
+
+**[📈 Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart.html)**
+
+**[📉 Multi Axis Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart-multi-axis.html)**
+
+**[🍩 Doughnut and Pie Charts](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/doughnut-and-pie-charts.html)**
+
+**[🔶 Radar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/radar-chart.html)**
+
+**[⭕ Scatter Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/scatter-chart.html)**
 
 ## 📊 Bar Chart
 
