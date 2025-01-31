@@ -49,8 +49,7 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 ![Scatter Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/scatter-chart.png "Scatter Chart - Example")
 
-
- 
+<hr>
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
