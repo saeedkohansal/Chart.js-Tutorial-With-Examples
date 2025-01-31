@@ -11,39 +11,43 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 ***[https://youtu.be/4y7-8Qq2aMM](https://youtu.be/4y7-8Qq2aMM)***
 
- 
+<hr>
 
 # 📊 Bar Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart - Example")
 
 # 📊 Multiple Datasets Bar Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-multiple-datasets.png "Bar Chart Preview")
+![Multiple Datasets Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-multiple-datasets.png "Multiple Datasets Bar Chart - Example")
 
 # 📊 Horizontal Bar Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-horizontal.png "Bar Chart Preview")
+![Horizontal Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-horizontal.png "Horizontal Bar Chart - Example")
 
 # 📈 Line Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
+![Line Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/line-chart.png "Line Chart - Example")
 
 # 📉 Multi Axis Line Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart - Example")
 
-# 🍩 Doughnut and Pie Charts
+# 🍩 Doughnut Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
+![Doughnut Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/doughnut-chart.png "Doughnut Chart - Example")
+
+# 🍩 Pie Chart
+
+![Pie Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/pie-chart.png "Pie Chart - Example")
 
 # 🔶 Radar Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
+![Radar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/radar-chart.png "Radar Chart - Example")
 
 # ⭕ Scatter Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
+![Scatter Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/scatter-chart.png "Scatter Chart - Example")
 
 
  
