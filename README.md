@@ -11,37 +11,42 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 ***[https://youtu.be/4y7-8Qq2aMM](https://youtu.be/4y7-8Qq2aMM)***
 
- 
+ 
 
-## 🔴 SPG App Live Demo ##
+# 📊 Bar Chart
 
-🔗 ***https://saeedkohansal.github.io/Safe-Password-Generator-App/source-code/***
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
 
- 
+# 📊 Multiple Datasets Bar Chart
 
-## ⬇️ Download Safe Password Generator App ##
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-multiple-datasets.png "Bar Chart Preview")
 
-**🔗 Web App Version:** ***https://github.com/saeedkohansal/Safe-Password-Generator-App/tree/main/source-code***
+# 📊 Horizontal Bar Chart
 
-**🔗 Installer Version:** ***https://drive.google.com/file/d/1q0YjZsc3hgskzTC32UJ37by5kfvPi7N8/view?usp=sharing***
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart-horizontal.png "Bar Chart Preview")
 
-**🔗 Portable Version:** ***https://drive.google.com/file/d/1qFgA_-1bKkT8yBI6F2h1Yc3RaPfLTB7w/view?usp=sharing***
+# 📈 Line Chart
 
- 
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
 
-# 📸 Application Demo
+# 📉 Multi Axis Line Chart
 
-![SPG App Demo](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Demo.png "SPG App Demo")
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
 
-# ⚛️ Chrome DevTools
+# 🍩 Doughnut and Pie Charts
 
-![SPG App Chrome DevTools](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-DevTools.png "SPG App Chrome DevTools")
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
 
-# 🛠️ App Size Comparison
+# 🔶 Radar Chart
 
-![SPG App Size Comparison](https://raw.githubusercontent.com/saeedkohansal/Safe-Password-Generator-App/main/images/SPG-App-Size-Comparison.png "SPG App Size Comparison")
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
 
- 
+# ⭕ Scatter Chart
+
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Bar Chart Preview")
+
+
+ 
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
