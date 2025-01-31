@@ -1,4 +1,3 @@
-
 # ✅ Chart.js Tutorial With Examples
 
 _Master Data Visualization with Chart.js! | Create 9 Stunning Charts Using JavaScript!_
