@@ -9,6 +9,8 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 # 🎥 Tutorial Video
 🔗 ***[https://youtu.be/4y7-8Qq2aMM](https://youtu.be/4y7-8Qq2aMM)*** - *CREATE 9 Stunning Charts with Chart.js and MASTER Data Visualization!*
 
+<hr>
+
 # 🔴 Chart.js Examples Live Demo
 🔗 ***[https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/)*** - *Chart.js Examples*
 
