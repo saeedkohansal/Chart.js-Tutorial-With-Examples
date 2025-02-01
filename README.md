@@ -6,29 +6,28 @@ _Master Data Visualization with Chart.js! | Create 9 Stunning Charts Using JavaS
 
 In this Chart.js tutorial, I’ll show you how to visualize data on the web using JavaScript. You’ll learn how to create 9 different chart types, including bar charts, line charts, pie charts, and more! Chart JS is a powerful, lightweight, and open-source JavaScript charting library that lets you build interactive and responsive charts using HTML5 Canvas. Whether you're a beginner or an experienced developer, this step-by-step tutorial will help you master data visualization for your web applications and dashboards. Want to Master Chart JS? Watch This Chart.js Tutorial.
 
-## 🎥 Tutorial Video [ Creating 9 Charts ]
-
-***[https://youtu.be/4y7-8Qq2aMM](https://youtu.be/4y7-8Qq2aMM)***
+# 🎥 Tutorial Video
+***[https://youtu.be/4y7-8Qq2aMM](https://youtu.be/4y7-8Qq2aMM)*** - *CREATE 9 Stunning Charts with Chart.js and MASTER Data Visualization!*
 
 <hr>
 
 # | TABLE OF CONTENTS |
 
-**[📊 Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** - ***[Source Code](source-code/charts/bar-chart.html)***
+**[📊 Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** - *[Source Code](source-code/charts/bar-chart.html)*
 
-**[📊 Multiple Datasets Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-multiple-datasets.html)** - ***[Source Code](source-code/charts/bar-chart-multiple-datasets.html)***
+**[📊 Multiple Datasets Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-multiple-datasets.html)** - *[Source Code](source-code/charts/bar-chart-multiple-datasets.html)*
 
-**[📊 Horizontal Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-horizontal.html)** - ***[Source Code](source-code/charts/bar-chart-horizontal.html)***
+**[📊 Horizontal Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-horizontal.html)** - *[Source Code](source-code/charts/bar-chart-horizontal.html)*
 
-**[📈 Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart.html)** - ***[Source Code](source-code/charts/line-chart.html)***
+**[📈 Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart.html)** - *[Source Code](source-code/charts/line-chart.html)*
 
-**[📉 Multi Axis Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart-multi-axis.html)** - ***[Source Code](source-code/charts/line-chart-multi-axis.html)***
+**[📉 Multi Axis Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart-multi-axis.html)** - *[Source Code](source-code/charts/line-chart-multi-axis.html)*
 
-**[🍩 Doughnut and Pie Charts](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/doughnut-and-pie-charts.html)** - ***[Source Code](source-code/charts/doughnut-and-pie-charts.html)***
+**[🍩 Doughnut and Pie Charts](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/doughnut-and-pie-charts.html)** - *[Source Code](source-code/charts/doughnut-and-pie-charts.html)*
 
-**[🔶 Radar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/radar-chart.html)** - ***[Source Code](source-code/charts/radar-chart.html)***
+**[🔶 Radar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/radar-chart.html)** - *[Source Code](source-code/charts/radar-chart.html)*
 
-**[⭕ Scatter Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/scatter-chart.html)** - ***[Source Code](source-code/charts/scatter-chart.html)***
+**[⭕ Scatter Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/scatter-chart.html)** - *[Source Code](source-code/charts/scatter-chart.html)*
 
 <hr>
 
