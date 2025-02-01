@@ -18,21 +18,21 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 # 📚 Table of Contents
 
-**[📊 Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** - *[Source Code](source-code/charts/bar-chart.html)*
+📊 **[Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** - *[Source Code](source-code/charts/bar-chart.html)*
 
-**[📊 Multiple Datasets Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-multiple-datasets.html)** - *[Source Code](source-code/charts/bar-chart-multiple-datasets.html)*
+📊 **[Multiple Datasets Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-multiple-datasets.html)** - *[Source Code](source-code/charts/bar-chart-multiple-datasets.html)*
 
-**[📊 Horizontal Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-horizontal.html)** - *[Source Code](source-code/charts/bar-chart-horizontal.html)*
+📊 **[Horizontal Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart-horizontal.html)** - *[Source Code](source-code/charts/bar-chart-horizontal.html)*
 
-**[📈 Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart.html)** - *[Source Code](source-code/charts/line-chart.html)*
+📈 **[Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart.html)** - *[Source Code](source-code/charts/line-chart.html)*
 
-**[📉 Multi Axis Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart-multi-axis.html)** - *[Source Code](source-code/charts/line-chart-multi-axis.html)*
+📉 **[Multi Axis Line Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/line-chart-multi-axis.html)** - *[Source Code](source-code/charts/line-chart-multi-axis.html)*
 
-**[🍩 Doughnut and Pie Charts](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/doughnut-and-pie-charts.html)** - *[Source Code](source-code/charts/doughnut-and-pie-charts.html)*
+🍩 **[Doughnut and Pie Charts](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/doughnut-and-pie-charts.html)** - *[Source Code](source-code/charts/doughnut-and-pie-charts.html)*
 
-**[🔶 Radar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/radar-chart.html)** - *[Source Code](source-code/charts/radar-chart.html)*
+🔶 **[Radar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/radar-chart.html)** - *[Source Code](source-code/charts/radar-chart.html)*
 
-**[⭕ Scatter Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/scatter-chart.html)** - *[Source Code](source-code/charts/scatter-chart.html)*
+⭕ **[Scatter Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/scatter-chart.html)** - *[Source Code](source-code/charts/scatter-chart.html)*
 
 <hr>
 
