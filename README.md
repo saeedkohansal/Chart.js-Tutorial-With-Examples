@@ -51,7 +51,7 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 ## 📉 Multi Axis Line Chart
 
-![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/bar-chart.png "Multi Axis Line Chart - Example")
+![Bar Chart](https://raw.githubusercontent.com/saeedkohansal/Chart.js-Tutorial-With-Examples/refs/heads/main/images/chart.js-examples/multi-axis-line-chart.png "Multi Axis Line Chart - Example")
 
 ## 🍩 Doughnut Chart
 
