@@ -11,7 +11,7 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 
 <hr>
 
-# | TABLE OF CONTENTS
+# 📂 Table of Contents
 
 **[📊 Bar Chart](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/charts/bar-chart.html)** - *[Source Code](source-code/charts/bar-chart.html)*
 
