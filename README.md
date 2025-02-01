@@ -12,7 +12,7 @@ In this Chart.js tutorial, I’ll show you how to visualize data on the web usin
 <hr>
 
 # 🔴 Chart.js Examples Live Demo
-🔗 ***[https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/)*** - *Chart.js Examples*
+🔗 ***[https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/](https://saeedkohansal.github.io/Chart.js-Tutorial-With-Examples/source-code/)*** - *9 Types of Charts*
 
 <hr>
 
